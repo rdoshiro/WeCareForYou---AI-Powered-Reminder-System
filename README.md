@@ -1,5 +1,5 @@
 Overview: 
-With 29% of Canadians aged 65+ living alone, and growing concerns around chronic illness and mental health in this group, we set out to build a personal, impactful solution for seniors.
+With 29% of Canadians aged 65+ living alone, and growing concerns around chronic illness and mental health, the goal of this project was to build a personal, impactful solution for seniors.
 This project is a voice-activated smart medication reminder system designed to assist elderly individuals in managing their medication, while also supporting caregivers with real-time alerts and emotional insights.
 
 Key Features:
