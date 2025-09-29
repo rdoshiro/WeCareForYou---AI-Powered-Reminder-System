@@ -35,3 +35,6 @@ Future Improvements
 UI dashboard for caregivers to monitor medication history
 Multilingual support for diverse user groups
 Improved sentiment model using large language models
+
+<img width="441" height="275" alt="Hackathon" src="https://github.com/user-attachments/assets/564d9a59-ce53-447b-81d6-f141e3fe1117" />
+
